@@ -1,0 +1,191 @@
+/* login */
+.border-form.form-regis {
+    margin: 30px 0 20px;
+}
+.border-form {
+    border-radius: 5px;
+    box-shadow: 0 0 8px #ddd;
+    padding: 1rem;
+    background: #fff;
+}
+.form-regis input {
+    display: inline-block;
+    width: calc(100% - 120px);
+    border-radius: 4px;
+    padding: 0 8px;
+}
+.login-row {
+    width: 600px;
+    margin: auto;
+}
+.new-header {
+    background: #fff;
+    margin: 20px auto;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.new-header h1 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+.form-group {
+    padding: 0.5rem 0;
+}
+.form-regis .form-group .col-12{
+    display: flex;
+    align-items: center;
+}
+.form-regis label {
+    display: inline-block;
+    width: 120px;
+    float: left;
+    font-weight: 600;
+}
+.form-regis input {
+    display: inline-block;
+    width: calc(100% - 120px);
+    border-radius: 4px;
+    padding: 8px 8px;
+    border-color: #dddddd;
+    outline: none;
+}
+.reg-button {
+    background: #243a76;
+    border: none;
+    color: #fff;
+    display: block;
+    line-height: 40px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.login_right_button {
+    display: flex;
+}
+.login_right, .login_right_button {
+    width: calc(100% - 120px);
+}
+.button_reg:first-child {
+    margin-right: 1rem;
+}
+.button_reg {
+    display: inline-block;
+    width: calc(50% - 0.5rem);
+    background: #fdd835;
+    line-height: 40px;
+    text-align: center;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.login_right_button a {
+    color: #333e48;
+}
+.login_right a .social-login-btn, .regist_right a .social-login-btn {
+    margin-bottom: 1rem;
+}
+.btn-google {
+    background: #df4a32;
+}
+.social-login-btn {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 41px;
+    border-radius: 3px;
+    margin-bottom: 5px;
+}
+.social-login-icon {
+    height: 41px;
+    width: 41px;
+    background: rgba(0,0,0,.15);
+    line-height: 41px;
+    border-radius: 4px 0 0 4px;
+    font-size: 1.4rem;
+    color: #fff;
+    text-align: center;
+}
+.social-login-txt {
+    color: #fff;
+    font-weight: 600;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.btn-facebook {
+    background: #3b5998;
+}
+/* đangki */
+.col-12,.col-lg-6 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.left-side {
+    border-right: 1px dashed #ddd;
+}
+.new-header {
+    background: #fff;
+    margin: 20px auto;
+    font-size: 14px;
+    text-align: center;
+}
+.new-header h1 {
+    font-size: 36px;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+.regist_right {
+    width: 240px;
+    margin: auto;
+}
+.btn-zalo {
+    background: #0573ff;
+    margin-bottom: 0;
+}
+.form-group {
+    padding: 0.5rem 0;
+}
+.form-regis .form-group .col-12, .header-top-left, .header-top-right, .horizontal-filter, .horizontal-price-filter {
+    display: flex;
+    align-items: center;
+}
+
+.col-12 input[type=password],.col-12  input[type=text] {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ddd;
+    padding-left: 5px;
+}
+
+#check_user {
+    margin-top: 0.5rem;
+}
+.form-regis .gender input {
+    width: 18px;
+}
+.form-regis select {
+    height: 40px;
+    border: 1px solid #ddd;
+    line-height: 40px;
+    padding: 0 5px;
+    border-radius: 4px;
+}
+.row2{
+    display: flex;
+}
+/* quen mat khau */
+.reg-button {
+    background: #243a76;
+    border: none;
+    color: #fff;
+    display: block;
+    line-height: 40px;
+    cursor: pointer;
+    font-weight: 600;
+}
+.form-regis2 .col-12 input {
+    display: inline-block;
+    width: calc(100% - 120px);
+    border-radius: 4px;
+    padding: 0 8px;
+}

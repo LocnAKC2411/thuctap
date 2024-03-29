@@ -1,0 +1,294 @@
+/* reposive */
+@media (min-width: 740px) and (max-width: 1023px) {
+    body{
+        min-width: 768px;
+    }
+    .header .header-top {
+        height: 26px;
+    }
+    body, .hd-top-left, .hd-top-right {
+        font-size: 6px;
+    }
+    .header-wrapper {
+        margin-bottom: 8px;
+    }
+    .fixed-container{
+        padding: 5px 0;
+    }
+    .hotline-item-regions {
+        padding: 6px 6px;
+    }
+    .tra-don-hang-icon {
+        height: 42px;
+        width: 42px;
+    }
+    .header-cart-icon svg {
+        height: 30px;
+    }
+    .header-cart-icon {
+        height: 44px;
+    }
+    .header-cart-icon {
+        font-size: 8px;
+        line-height: 32px;
+    }
+    #count_shopping_cart_store {
+        left: 22px;
+        font-size: 8px;
+    }
+    .sub {
+        top: 18px;
+    }
+    .sub-regions {
+        width: 768px;
+        top: 22px;
+    }
+    .sub-item {
+        padding: 2px;
+    }
+    .sub-regions-item {
+        font-size: 6px;
+    }
+    .regions-text p {
+        font-size: 10px;
+    }
+    .bophan {
+        padding: 0px 10px;
+    }
+    .titles {
+        font-size: 10px;
+        padding: 4px 10px;
+        line-height: 15px;
+    }
+    .bophan2-info p {
+        line-height: 6px;
+    }
+    .bophan-info {
+        font-size: 8px;
+    }
+    .bophan2-footer {
+        padding: 3px 6px;
+        line-height: 19px;
+        font-size: 7px;
+    }
+    .bophan2-nume {
+        height: 25px;
+        line-height: 23px;
+        font-size: 1.2rem;
+    }
+    .time-hotline {
+        height: 16px;
+        padding: 0 6px;
+    }
+    .hotro .sub-hotro {
+        right: 162px;
+    }
+    .ttdv .sub-ttdv {
+        right: 114px;
+    }
+    .khuyen-mai .sub-khuyenmai {
+        right: 28px;
+    }
+    .sub-use .sub-use-item {
+        padding: 10px 10px;
+    }
+    .use-action-item .sub-use {
+        right: 4px;
+    }
+    .use-list1 {
+        padding: 6px 0px;
+    }
+    .use-list {
+        font-size: 1rem;
+    }
+    .header-bottom .header-bottom-right {
+        margin-right: 6px;
+        font-size: 6px;
+    }
+    .header-bottom-left {
+        flex: 0 0 160px;
+        max-width: 160px;
+    }
+    .main-search #text-search {
+        height: 28px;
+    }
+    .input-text input {
+        font-size: 8px;
+    }
+    .header .main-search .search-btn {
+        font-size: 16px;
+    }
+    .khaipv-buildpc a {
+        font-size: 6px;
+    }
+    .khaipv-buildpc a .buildpc-link-right span {
+        line-height: 10px;
+    }
+    /* trang chủ */
+    .homepage-slider-left {
+        font-size: 8px;
+    }
+    .ul-menu .sub-menu{
+        width: 640 !important;
+    }
+    .sub-menu-item .sub-menu-item-i{
+        font-size: 10px;
+    }
+    .li-catch-menu a{
+        font-size: 1rem;
+    }
+    .list-collection-home2019 .collection-name {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    div#list-collection-homepage2019 .item-collection {
+        width: 50%;
+        float: left;
+    }
+    .homepage-product-2019 .title_box_center_2019 .sub_cat_title a {
+        
+        font-size: 8px;
+        padding: 4px 6px;
+    }
+    /*  */
+    .khaipv-footer-srbg{
+        display: none;
+    }
+    .khaipv-footer-policies{
+        padding: 8px 10px;
+    }
+    .policy-icon {
+        font-size: 2.5rem;
+    }
+    .policy-info-title {
+        font-size: 1.2rem;
+    }
+    .policy-info-content {
+        font-size: 1rem;
+    }
+    .links-group-title {
+        font-size: 1.4rem;
+    }
+    .khaipv-footer-links{
+        padding: 5px 5px;
+    }
+    .footer-social-icons i {
+        width: 30px;
+        height: 30px;
+        font-size: 1.5rem;
+        line-height: 30px;
+    }
+    .khaipv-copyright {
+        color: #fff;
+        font-size: 1.2rem;
+        line-height: 1;
+        padding: 20px 10px;
+    }
+    .contact-box-wrapper {
+        padding: 6px 12px;
+    }
+    .css-1fve1q8 {
+        font-size: 1.2rem;
+    }
+    #root {
+        width: 250px;
+    }
+    /* lọc sản phẩm */
+    .cate-top .current-cate-title .current-cate-text {
+        font-size: 18px;
+    }
+    .cate-content .cate-right .cate-product-list .cate-prod-top .sort-zone .box-sort>select {
+        margin: 0 18px 0 0;
+        min-width: 90px;
+        height: 26px;
+        font-size: 6px;
+    }
+    .horizontal-price-filter-child input {
+        width: 60px;
+        font-size: 8px;
+    }
+    .horizontal-price-filter .button-filter {
+        padding: 6px 6px;
+    }
+    .new-sort-zone a {
+        margin-right: 5px;
+        font-size: 8px;
+        padding: 0px 5px;
+    }
+    .cate-list-prod .p-component {
+        width: calc(50% - 12px);
+    }
+    /* giỏ hàng */
+    .cart-content-2021 .new-cart-items-row .cart-col-product .cart-n-p-name {
+        font-size: 1rem;
+    }
+    .cart-content-2021 .cart-col-quantity, .cart-content-2021 .cart-col-total-price {
+        width: 96px;
+        float: left;
+    }
+    .new-cart-items-price {
+        font-size: 1.2rem;
+    }
+    .new-cart-quantity a {
+        width: 27px;
+        height: 26px;
+        font-size: 8px;
+    }
+    .cart-col-quantity .new-cart-quantity input.buy-quantity {
+        font-size: 12px;
+    }
+    .new-cart-quantity input {
+        width: 36px;
+        height: 26px;
+    }
+    .cart-content-2021 .total-item-price {
+        font-size: 12px;
+    }
+    .cart-content-2021 .cart-col-price {
+        width: 140px;
+    }
+    .cart-content-2021 .new-cart-items-row .cart-col-product .cart-n-p-img {
+        width: 65px;
+    }
+    .cart-content-2021 .new-cart-items-row .cart-col-product .cart-n-p-buy-later {
+        font-size: 1rem;
+        padding: 5px 2px;
+    }
+    .cart-content-2021 .cart-col-product {
+        width: calc(100% - 362px);
+    }
+    /* chi tiétp */
+    .product_detail-title h1 {
+        font-size: 20px;
+    }
+    .pd-addon-group .item {
+        font-size: 10px;
+        cursor: pointer;
+    }
+    .review-form-2020 .avgRate span {
+        font-size: 36px;
+    }
+    .review-form-2020 .avg-rate-count {
+        width: 45%;
+        font-size: 10px;
+        padding: 4px 0;
+    }
+    .review-form-2020 .button-review {
+        width: 22%;
+        font-size: 10px;
+    }
+    .review-form-2020 .button-review a {
+        width: 120px;
+        padding: 8px;
+    }
+    .product-detail-top .product-detail-static-content {
+        width: 247px;
+        min-width: 238px;
+    }
+    .product-detail-top .product-detail-top-left {
+        width: 40%;
+    }
+    .product-detail-top .product-detail-top-right {
+        width: 60%;
+    }
+}
