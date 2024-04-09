@@ -1,0 +1,95 @@
+{
+  "dataProducts" :[
+    {
+        "id": 1,
+        "img": "./assets/img/laptop/250_76572_laptop_acer_aspire_5_a514_56p_55k5__nx_khrsv_003___1_.jpg",
+        "sku": "LTAC854",
+        "name": "Laptop Acer Aspire 5 A514-56P-55K5 (NX.KHRSV.003) (i5 1335U/16GB RAM/512GB SSD/14.0 inch WUXGA IPS/Win11/Xám) (2023)",
+        "mprice": 18999000,
+        "discount": 16,
+        "price": 15999000,
+        "guarantee": "12 Tháng",
+        "parameter1": "- CPU: Intel® Core™ i5-1335U",
+        "parameter2": "- RAM: 16GB LPDDR5 6400MHz (Hàn liền không nâng cấp được)", 
+        "parameter3": "- Ổ cứng: 512GB SSD PCIe NVMe (Nâng cấp thay thế,tối đa 1TB)", 
+        "parameter4": "- VGA: Intel® UHD Graphics", 
+        "parameter5": "- Màn hình: 14 WUXGA (1920 x 1200) IPS 60Hz Acer ComfyView™"
+    },
+    {
+      "id": 2,
+      "img": "./assets/img/laptop/250_78476_laptop_asus_zenbook_14_oled_ux3405ma_pp151w.jpg",
+      "sku": "LTAU839",
+      "name": " Laptop Asus ZenBook UX3405MA-PP151W (Ultra 5 125H/16GB RAM/512GB SSD/14 3K/Win11/Túi/Xanh) ",
+      "mprice": 28999000,
+      "discount": 7,
+      "price": 26999000,
+      "guarantee": "24 Tháng (Pin 12 Tháng)",
+      "parameter1": "- CPU: Intel® Core™ Ultra 5-125H Processor (18MB Cache, up to 4.5 GHz); Intel® AI Boost NPU",
+      "parameter2": "- RAM: 16GB LPDDR5X onboard (Tối đa 16GB)", 
+      "parameter3": "- Ổ cứng: 512GB M.2 NVMe™ PCIe® 4.0 SSD", 
+      "parameter4": "- VGA: Intel® Arc™ Graphics", 
+      "parameter5": "- Màn hình: 14.0-inch 3K (2880 x 1800) OLED 16:10"
+  },
+  {
+    "id": 3,
+      "img": "./assets/img/laptop/250_71806_nj069w.jpg",
+      "sku": "LTAU794",
+      "name": "  Laptop Asus X1504VA-NJ069W (i3 1315U/8GB RAM/512GB SSD/15.6 FHD/Win11/Bạc) ",
+      "mprice": 13699000,
+      "discount": 25,
+      "price": 10299000,
+      "guarantee": "24 Tháng (Pin 12 Tháng)",
+      "parameter1": "- CPU: Intel Core i3-1315U (Up to 4.50GHz, 10MB Cache)",
+      "parameter2": "- RAM: 8GB", 
+      "parameter3": "- Ổ cứng: 512GB M.2 NVMe™ PCIe®", 
+      "parameter4": "- VGA: Intel Iris Xe Graphics", 
+      "parameter5": "- Màn hình: 15.6 inch FHD (1920 x 1080) 16:9, 250nits, 45% NTSC"
+  },
+  {
+    "id": 4,
+      "img": "./assets/img/laptop/250_78990_laptop_acer_aspire_3_a315_510p_34xz__nx_kdhsv_006_.jpg",
+      "sku": "LTAC875",
+      "name": "  Laptop Acer Aspire 3 A315-510P-34XZ (NX.KDHSV.006) (i3-N305/8GB RAM/512GB SSD/15.6 inch FHD/Win11/Bạc) ",
+      "mprice": 10999000,
+      "discount": 15,
+      "price": 9299000,
+      "guarantee": "12 Tháng",
+      "parameter1": "- CPU: Intel Core i3-N305",
+      "parameter2": "- RAM: 8GB", 
+      "parameter3": "- Ổ cứng: 512GB PCIe NVMe SSD (nâng cấp tối đa 1 TB)", 
+      "parameter4": "- VGA: Intel UHD Graphics", 
+      "parameter5": "- Màn hình: 15.6 FHD(1920 x 1080) IPS LED, 60Hz"
+  },
+  {
+    "id": 5,
+      "img": "./assets/img/laptop/250_71158_a1505va_l1114w.jpg",
+      "sku": "LTAU779",
+      "name": " Asus Vivobook 15 OLED A1505VA - L1114W (i5 13500H/16GB RAM/512GB SSD/15.6 Oled/Win11/Đen) ",
+      "mprice": 20999000,
+      "discount": 21,
+      "price": 16499000,
+      "guarantee": "24 Tháng (Pin 12 Tháng)",
+      "parameter1": "- CPU: Intel® Core™ i5 13500H (upto 4.70GHz, 18MB)",
+      "parameter2": "- RAM: 16GB", 
+      "parameter3": "- Ổ cứng: 512GB M.2 NVMe™ PCIe® 3.0", 
+      "parameter4": "- VGA: Intel® Iris Xe Graphics", 
+      "parameter5": "- Màn hình: 15.6inch FHD (1920 x 1080) OLED 16:9, 400nits, 100% DCI-P3"
+  },
+  {
+    "id": 6,
+      "img": "./assets/img/laptop/250_67515_laptop_acer_swift_3_sf314_512_16.jpg",
+      "sku": "LTAC817",
+      "name": " Laptop Acer Swift 3 SF314-512-56QN (NX.K0FSV.002) (i5-1240P/16GB RAM/512GB SSD/14.0 inch QHD IPS/Win11/Bạc/vỏ nhôm) ",
+      "mprice": 23999000,
+      "discount": 23,
+      "price": 18499000,
+      "guarantee": "12 Tháng – BH 3S1",
+      "parameter1": "- CPU: Intel Core i5-1240P (3.30 GHz upto 4.40 GHz, 12MB)",
+      "parameter2": "- RAM: 16GB onboard LPDDR4X 4267MHz", 
+      "parameter3": "- Ổ cứng: 512GB PCIe NVMe SSD", 
+      "parameter4": "- VGA: Intel Iris Xe Graphics", 
+      "parameter5": "- Màn hình: 14 inch QHD (2560 x 1440),60Hz,IPS SlimBezel, 300 nits, 100% sRGB"
+  }
+  ]
+}
+
